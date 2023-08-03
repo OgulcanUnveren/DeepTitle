@@ -1,5 +1,8 @@
 # DeepTitle
 Telegram Bot // Recognizes speech using OpenAI whisper in sent video that comes from Telegram and sends its subtitled version back to you 
+
+### Works with videos under 60 seconds 
+
 ## Installation 
 pip install -r requirements.txt
 

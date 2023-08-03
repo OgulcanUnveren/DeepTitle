@@ -5,7 +5,7 @@ pip install -r requirements.txt
 
 ### Go botfather and create a bot
 
-### Copy token and paste it to BOT_TOKEN field.
+### Copy token and paste it to BOT_TOKEN field. And set download_root path in transcribe function.
 
 python burn.py
 
